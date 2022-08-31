@@ -2,7 +2,7 @@
 A simple platformer to practice with [godot](https://godotengine.org/)
 created by [Chris Kellum](https://github.com/CaKellum/)
 
-## Assets
+## Asset Atribution
 ### Images
 All of these assets are property of the wonderful person known as [Kenny](https://twitter.com/KenneyNL)
 [Platformer Characters](https://www.kenney.nl/assets/platformer-characters) by [Kenny](https://www.kenney.nl/) licensed under [CC0 (Creative Commons Zero)](http://creativecommons.org/publicdomain/zero/1.0/)  
@@ -12,10 +12,3 @@ All of these assets are property of the wonderful person known as [Kenny](https:
 
 ### Sounds
 (TODO: Get audio for game)
-
-
-## Publish licenses
-
-This work is published under a [CC0](http://creativecommons.org/publicdomain/zero/1.0/)  
-[](http://i.creativecommons.org/p/zero/1.0/88x31.png)  
-To the extent possible under law, [Christopher Kellum](https://github.com/CaKellum/) To the extent possible under law, Christopher Kellum has waived all copyright and related or neighboring rights to Practice Platformer.  has waived all copyright and related or neighboring rights to Practice Platformer.  
